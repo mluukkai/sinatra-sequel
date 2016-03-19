@@ -1,5 +1,6 @@
 require 'sequel'
 require 'sinatra/reloader'
+require 'mongo'
 
 configure :development do
   require 'sqlite3'

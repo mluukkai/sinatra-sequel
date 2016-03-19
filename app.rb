@@ -2,6 +2,8 @@ require 'rubygems'
 require 'sinatra'
 require './config'
 
+byebug
+
 class Beer < Sequel::Model
 end
 

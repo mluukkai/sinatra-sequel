@@ -1,3 +1,9 @@
+# introduction
+
+A simple app for Tietokantojen perusteet to try out sql in wild
+
+[https://tsohatesting.herokuapp.com](https://tsohatesting.herokuapp.com)
+
 ## initializing database 
 
 ```ruby
